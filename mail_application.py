@@ -136,7 +136,7 @@ class Ui_MainWindow(object):
         self.label_6.setText(_translate("MainWindow", "Body: "))
         self.pushButton.setText(_translate("MainWindow", "Send "))
         self.pushButton_2.setText(_translate("MainWindow", "Reset"))
-        self.label_7.setText(_translate("MainWindow", "status:"))
+        self.label_7.setText(_translate("MainWindow", "Status:"))
 
         
     def isEmptyFeild(self):
